@@ -1,7 +1,7 @@
 <p align="center" class="logo-section">
 <img src="https://i.ibb.co/rKb8Gf9B/278-2783276-white-twitter-png.png" height="80" width="80"/>
 </br>
-<img src="https://halitsever-api.vercel.app/api/repo-title?title=MyBB%20Turkish%20Community%20|%20mybbtr.com"/>
+<img src="https://halitsever-api.vercel.app/api/repo-title?title=MyBB%20Turkish%20Community%20"/>
 <br/>🇹🇷 Unofficial MyBB Community for Turkish Users 
 <p align="center">
 <br>
