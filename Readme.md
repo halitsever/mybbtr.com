@@ -1,10 +1,10 @@
 <p align="center" class="logo-section">
-<img src="https://i.ibb.co/NrPh9xP/image.png" height="80" width="80"/>
+<img src="https://i.ibb.co/rKb8Gf9B/278-2783276-white-twitter-png.png" height="80" width="80"/>
 </br>
-<img src="https://halitsever-api.vercel.app/api/repo-title?title=repo_name">
-
+<img src="https://halitsever-api.vercel.app/api/repo-title?title=MyBB Turkish Community | my">
+🇹🇷 Unofficial MyBB Community for Turkish Users 
 <p align="center">
-✋ Coming soon...<br>
+<br>
 <br/>
 <br/>
 <img src="https://img.shields.io/github/sponsors/halitsever"/>
